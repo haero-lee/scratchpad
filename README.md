@@ -7,8 +7,8 @@
 2. Paste the following commands in a code chunk, and run it:
 
 ```python
-! git clone https://github.com/ds4e/get_data
-%run ./get_data/get_data.py
+! git clone https://github.com/<your GitHub username>/scratchpad
+%run ./scratchpad/get_data.py
 ```
 
 This will download and extract the course data for you.
